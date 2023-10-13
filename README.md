@@ -9,22 +9,25 @@ https://youtu.be/l4mov5Dog9U
 
 1.login page ทำหน้าที่ login เข้าสู่ wedsite
 
-![127 0 0 1_8000_login - Google Chrome 8_10_2566 20_27_23](https://github.com/6410685074/cn331-as02/assets/88659254/bb086aa7-ae7a-4723-9563-3d6ed658b5d5)
+![hogwartsregistration pythonanywhere com_login - Google Chrome 13_10_2566 19_04_21](https://github.com/6410685074/cn331-as02/assets/88659254/72ecb635-629a-4a09-bc35-c1f1943db75a)
+
 
 2.Home page หน้าเกริ่นนำเข้าสู่ wedsite
 
-![127 0 0 1_8000_login - Google Chrome 8_10_2566 20_27_42](https://github.com/6410685074/cn331-as02/assets/88659254/37dcc937-e81a-467c-aaa6-27bc48a9df23)
+![hogwartsregistration pythonanywhere com_login - Google Chrome 13_10_2566 19_04_30](https://github.com/6410685074/cn331-as02/assets/88659254/4531319f-cd43-44c2-834b-8443df3a1e3a)
+
 
 3.about page บอกประวัติความเป็นมา
 
-![127 0 0 1_8000_login - Google Chrome 8_10_2566 20_27_52](https://github.com/6410685074/cn331-as02/assets/88659254/e3c896c3-e89e-4b83-816c-c2288bd3cb97)
+![hogwartsregistration pythonanywhere com_login - Google Chrome 13_10_2566 19_04_47](https://github.com/6410685074/cn331-as02/assets/88659254/ddbede52-0624-4562-979a-885054dce36c)
+
 
 4.Registration(Quta) page ทำหน้าที่บอกรายวิชาที่เปิดสอนอยู่ และยังบอกอีกด้วยว่ารายวิชาไหนยังสามารถลงเรียนได้หรือไม่ได้
 
-![image](https://github.com/6410685074/cn331-as02/assets/88650235/19887cc7-61aa-48a8-b554-5ec30b06f4f0)
+![hogwartsregistration pythonanywhere com_login - Google Chrome 13_10_2566 19_04_53](https://github.com/6410685074/cn331-as02/assets/88659254/285ee8c6-1024-4117-94cf-e6f275bdc984)
 
 
 5.Registration Status page ทำหน้าทที่ให้ผู้ใช้ลงรายวิชาที่ผู้ใช้ต้องการ และบอกรายวิชาที่ผู้ใช้ลงทะเบียนไว้อยู่แล้ว
 
-![image](https://github.com/6410685074/cn331-as02/assets/88650235/62bddd2f-b119-4174-b706-ba50b3f8d2df)
+![hogwartsregistration pythonanywhere com_login - Google Chrome 13_10_2566 19_05_02](https://github.com/6410685074/cn331-as02/assets/88659254/e7431f51-fdc7-499b-81ac-d52e134401e5)
 
